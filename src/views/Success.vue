@@ -1,0 +1,5 @@
+<template>
+  <div class="success">
+    <h1>Success</h1>
+  </div>
+</template>
