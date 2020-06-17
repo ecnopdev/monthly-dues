@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/monthly-dues/precache-manifest.f47110da3c793e53fc5267bb79bb1a2f.js"
+  "/monthly-dues/precache-manifest.0c022c49701ab347754d676027fbe905.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "monthly-dues"});
