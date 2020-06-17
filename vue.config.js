@@ -1,4 +1,4 @@
 module.exports = {
     "outputDir":"docs",
-    "publicPath":"monthly-dues"
+    "publicPath":"/monthly-dues/"
 }
