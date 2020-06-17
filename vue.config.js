@@ -1,4 +1,7 @@
 module.exports = {
-    "outputDir":"docs",
-    "publicPath":"/monthly-dues/"
-}
+  outputDir: 'docs',
+  publicPath: process.env.NODE_ENV === 'production' ? '/monthly-dues/' : '/',
+  transpileDependencies: [
+    'vuetify',
+  ]
+};
